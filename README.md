@@ -17,6 +17,10 @@ An AI-powered voice agent built for real estate lead handling and initial custom
 * Voice AI
 * APIs & Webhooks
 
-Project Goal
+### Project Goal
 
-Built to explore how AI voice agents can automate repetitive customer interactions and improve lead-handling workflows.
+Built to explore how **AI voice agents can automate repetitive customer interactions and improve lead-handling workflows**.
+
+### Demo
+
+Add your demo video or live demo link here.
